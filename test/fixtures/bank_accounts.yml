@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  number: MyString
+  opening_balance: 9.99
+  user: one
+  bank_branch: one
+
+two:
+  number: MyString
+  opening_balance: 9.99
+  user: two
+  bank_branch: two
